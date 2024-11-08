@@ -10,7 +10,7 @@ export default function Curiosity(){
     nome: "Corinthians",
     fundacao: "1910",
     estadio: "Néo Química Arena",
-    mascote: "Mosquiteiro",
+    mascote: "Mosqueteiro",
   };
 
   // Curiosidades sobre futebol
