@@ -47,7 +47,7 @@ export default function Curiosity(){
           <p><strong>Mascote:</strong> {time.mascote}</p>
         </div>
 
-        <button onClick={mostrarCuriosidade}>Clique para uma curiosidade sobre o futebol!</button>
+        <button onClick={mostrarCuriosidade}>Clique aqui para uma curiosidade sobre o futebol!</button>
 
         {curiosidade && <p className={styles.curiosidade}>{curiosidade}</p>}
       </header>
